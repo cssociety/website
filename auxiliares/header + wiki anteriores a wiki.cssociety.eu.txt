@@ -1,0 +1,135 @@
+<!-- **************************************** HEADER **************************************** -->
+
+<div class="main">
+  <div class="header">
+    <div class="Click"></div>
+    <div class="rss"></div>
+    <div class="search"></div>
+    <div class="clr"></div>
+    <div class="menu">
+	   <ul>
+	     <li><a href="contacts.html"> Contact Us </a></li>
+		 <li><a href="http://css.csregistry.org/tiki-index.php?page=HomePage" target="blank"> Wiki </a></li>
+	     <li><a href="http://main.csregistry.org/tiki-index.php?page=membership" target="blank"> Membership </a></li>
+		 <li><a href="http://css.csregistry.org/tiki-index.php?page=project+whoswho&highlight=who's%20who" target="blank"> Who's Who </a></li>
+		 <li><a href="http://css.csregistry.org/tiki-index.php?page=About%20CSS" target="blank"> About the Society </a></li>
+		 <li><a href="aboutComplexSystems.html" class="active"> About Complex Systems </a></li>
+         <li><a href="index.html">Home</a></li>
+      </ul>
+    </div>	
+	 
+	 <div class="menu">
+	   <div id="logocssdown">
+			<a href="index.html"><h1><img height="80" src="images/css1_small_80x2.png">&nbsp;&nbsp;Complex Systems Society</h1></a>
+	   </div>
+    </div>
+	
+	<div class="clr"></div>
+  </div>
+	
+<!-- **************************************** END HEADER **************************************** -->
+
+
+
+  <!-- ******************* CSS Wiki + CSS Activities ******************* -->
+	  
+      <div class="blog">
+	  
+	  	<h2>CSS Wiki</h2>
+        <div class="clr"></div>
+        <ul>
+          <li><a href="http://cssociety.org/Announce+Event" target="blank">Announce an event</a></li>
+          <li><a href="http://cssociety.org/suggestions#" target="blank">Suggest news</a></li>
+          <li><a href="http://main.csregistry.org/tiki-index.php?page=projectregistration&bl=y" target="blank">Create a webpage for an event or a project</a></li>
+          <li><a href="http://main.csregistry.org/tiki-index.php?page=Whoswhodata" target="blank">Register your record in the Who's Who</a></li>
+        </ul>
+		
+		<br /><br />
+	  
+        <h2>CSS Activities</h2>
+        <div class="clr"></div>
+        <ul>
+		  <li><a href="http://css.csregistry.org/tiki-index.php?page=ECCS" target="blank">European Conference on Complex Systems</a></li>
+		  <li><a href="newsletter_actual.html">Newsletter</a></li>
+		  <li><a href="http://www.assystcomplexity.eu/" target="blank">ASSYST Coordination Action</a></li>
+          <li><a href="http://css.csregistry.org/tiki-index.php?page=Executive%20Committee" target="blank">CSS Executive Committee</a></li>
+          <li><a href="http://lora.maths.warwick.ac.uk/groups/eccs_sc/" target="blank">CSS ECCS Steering Committee</a></li>
+          <li><a href="http://css.csregistry.org/tiki-index.php?page=Gender%20Committee" target="blank">CSS Gender Committee </a></li>
+		  <li><a href="http://css.csregistry.org/tiki-index.php?page=Yoco" target="blank">CSS Young People Committee</a></li>
+		  <li><a href="http://css.csregistry.org/tiki-index.php?page=Latino+America+Committee&bl=y" target="blank">CSS Latino America Committee</a></li>		  
+		  <li><a href="page_not_ready.html">CSS Website and Public Awarness Committee</a></li>
+        </ul>
+		
+      </div>
+	  
+	  <!-- ******************* END CSS Wiki + CSS Activities ******************* -->
+
+	  
+      <div class="blog">
+        <h2>News</h2>
+        <div class="clr"></div>
+        <p>
+          <a href="http://www.assystcomplexity.eu/news.jsp?article=80" target="blank">International Meeting on Visualization in Complex Environments</a><br />
+		  <strong>2011-11-23</strong><br />
+          The meeting took place at Politecnico di Torino, November 17-18, 2011. The programme covered the tracks Visualization and (1) Decision Making in Spatial Environments, (2) Scientific Data Exploration and (3) Communication.</p>
+        <p>
+          <a href="http://www.assystcomplexity.eu/news.jsp?article=81" target="blank">African RoadMap for Complex Systems Science</a><br />
+		  <strong>2011-11-22</strong><br />
+          This roadmap is being developed following the "African Conference on the Science of Complex Systems" (9-10 Nov 2011, Dakar). The conference discussed the Digital Campus, towards a UNESCO Unitwin Network. </p>
+
+        <p><a href="http://www.assystcomplexity.eu/news.jsp" target="blank"><img src="images/read_more.gif" alt="picture" width="85" height="26" border="0" class="floated" /></a></p>
+      </div>
+      <div class="blog last">
+        <h2>CSS Agenda - Events and Jobs</h2>
+        <div class="clr"></div>
+		
+        <p>
+          <a href="http://basna.in/" target="blank">Business Applications of Social Network Analysis</a><br />
+		  <strong>12 Dec 2012</strong></p>
+        <p>
+          <a href="http://sydney.edu.au/business/research/complexity/events/heron_island_summer_school_2012" target="blank">Heron Island Complex Systems Summer School 2012</a><br />
+          <strong>16 Jan 2012 - 27 Jan 2012</strong><br />
+        </p>
+		<p>
+          <a href="http://www.icaart.org/" target="blank">4th International Conference on Agents and Artificial Intelligence</a><br />
+          <strong>6 Feb 2012 - 8 Feb 2012</strong><br />
+        </p>
+		<p>
+          <a href="http://2012.complenet.org/" target="blank">3rd Workshop on Complex Networks</a><br />
+          <strong>7 Mar 2012 - 9 Mar 2012</strong><br />
+        </p>
+		<p><a href="http://www.assystcomplexity.eu/conferences.jsp" target="blank"><img src="images/read_more.gif" alt="picture" width="85" height="26" border="0" class="floated" /></a></p>
+
+      </div>
+      <div class="clr"></div>
+    </div>
+  </div>
+</div>
+<div class="footer">
+  <div class="footer_resize">
+    <div class="clr"></div>
+  </div>
+</div>
+</body>
+</html>
+
+
++++++++++++++++++++++++++++++++++
+
+E-mail do David Chavalarias em 29-11-2011:
+
+Here are the links. If you have a doubt, look at http://css.csregistry.org/wiki where permalink appears because http://cssociety.org is already an alias. Once you find a pagename, both http://css.csregistry.org/pagename and http://cssociety.org/pagename will work
+
+- Membership : http://main.csregistry.org/membership
+- Who's Who : csbrowser.cssociety.org
+- About the Society : http://cssociety.org/About%20CSS
+- Announce an event : http://cssociety.org/newevent
+- Suggest news : http://cssociety.org/suggestions
+- Create a webpage for an event or a project : http://cssociety.org/newpage
+- Register your record in the Who's Who : http://main.csregistry.org/Whoswhodata
+- CSS Executive Committee http://cssociety.org/Executive%20Committee
+- CSS Gender Committee http://cssociety.org/Gender%20Committee
+- CSS Young People Committee http://cssociety.org/yoco
+- CSS Latino America Committee http://ilacs.csregistry.org/
+
+You will find the list of all committees here : http://css.csregistry.org/CSS%20Committees
